@@ -30,8 +30,6 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
-I was unable to get LiceCap to work on my computer unfortunately and could
-not get it to work before turnin.
 
 ## Notes
 
@@ -39,7 +37,8 @@ Describe any challenges encountered while building the app.
 I had only found out about this class right before finals. Since my
 finals ended on June 10th and having left the country until June 17th, being
 pressed for time was a struggle for me and I was unable to complete many
-extra features.
+extra features by June 18th.  But I plan on extending my app and adding features
+before January 6th.
 
 ## License
 
